@@ -1,0 +1,15 @@
+D:\Workshop 5\Week 5\Task3(1)\bin\Debug\net9.0\Task3(1).exe
+D:\Workshop 5\Week 5\Task3(1)\bin\Debug\net9.0\Task3(1).deps.json
+D:\Workshop 5\Week 5\Task3(1)\bin\Debug\net9.0\Task3(1).runtimeconfig.json
+D:\Workshop 5\Week 5\Task3(1)\bin\Debug\net9.0\Task3(1).dll
+D:\Workshop 5\Week 5\Task3(1)\bin\Debug\net9.0\Task3(1).pdb
+D:\Workshop 5\Week 5\Task3(1)\obj\Debug\net9.0\Task3(1).GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop 5\Week 5\Task3(1)\obj\Debug\net9.0\Task3(1).AssemblyInfoInputs.cache
+D:\Workshop 5\Week 5\Task3(1)\obj\Debug\net9.0\Task3(1).AssemblyInfo.cs
+D:\Workshop 5\Week 5\Task3(1)\obj\Debug\net9.0\Task3(1).csproj.CoreCompileInputs.cache
+D:\Workshop 5\Week 5\Task3(1)\obj\Debug\net9.0\Task3(1).sourcelink.json
+D:\Workshop 5\Week 5\Task3(1)\obj\Debug\net9.0\Task3(1).dll
+D:\Workshop 5\Week 5\Task3(1)\obj\Debug\net9.0\refint\Task3(1).dll
+D:\Workshop 5\Week 5\Task3(1)\obj\Debug\net9.0\Task3(1).pdb
+D:\Workshop 5\Week 5\Task3(1)\obj\Debug\net9.0\Task3(1).genruntimeconfig.cache
+D:\Workshop 5\Week 5\Task3(1)\obj\Debug\net9.0\ref\Task3(1).dll
