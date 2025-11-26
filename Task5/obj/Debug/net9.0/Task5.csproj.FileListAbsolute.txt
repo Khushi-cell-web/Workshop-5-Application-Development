@@ -1,0 +1,5 @@
+D:\Workshop 5\Week 5\Task5\obj\Debug\net9.0\Task5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workshop 5\Week 5\Task5\obj\Debug\net9.0\Task5.AssemblyInfoInputs.cache
+D:\Workshop 5\Week 5\Task5\obj\Debug\net9.0\Task5.AssemblyInfo.cs
+D:\Workshop 5\Week 5\Task5\obj\Debug\net9.0\Task5.csproj.CoreCompileInputs.cache
+D:\Workshop 5\Week 5\Task5\obj\Debug\net9.0\Task5.sourcelink.json
